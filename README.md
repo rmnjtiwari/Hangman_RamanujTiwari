@@ -59,5 +59,5 @@ NOTE:In any of the above cases the remaining lives of Player are not deducted.
 The game continues with its normal flow. Player gets a message of "Already correctly guessed character".
 
 #### Case 2: Incorrect guess repeated
-In general incorrect guess, the remaining lives of player is decreased by 1. But since the live was already decreased once earlier the game does not decrease the life in this repeated wrong guess. It gives message to the user his repeated incorrect guess.
+In general for a incorrect guess, the remaining lives of player is decreased by 1. But since the live was already decreased once earlier, the game does not decrease the life in this repeated wrong guess. It gives message to the user about his repeated incorrect guess.
 
